@@ -1,2 +1,0 @@
-# database-token
-gausah rusuh
